@@ -1,2 +1,6 @@
-# ExtSub-ESLyrics-Translations
-知沅教育出版社 扩展科目偶像梦幻祭 歌词翻译
+# MS3 Deep Eclipse 深黯日蚀
+本分支为《扩展科目偶像梦幻祭 必修3：SS与梦之咲学院》中歌曲《Deep Eclipse》的译文。
+
+__原作：儿玉沙织__
+__演唱：Eden (乱 凪砂/巴 日和/七種 茨/漣 ジュン)__
+__译制：怖川__
