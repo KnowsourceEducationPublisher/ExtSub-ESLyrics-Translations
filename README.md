@@ -1,5 +1,4 @@
-# Seven Days "Prismagic"
-# 七日“棱镜魔法”
+# Seven Days "Prismagic"<br>七日“棱镜魔法”
 知沅教育出版社出品。<br>
 
 ![image](https://github.com/user-attachments/assets/44dd8564-6636-459d-bca3-2c18afb726af)
