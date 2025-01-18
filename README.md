@@ -1,5 +1,6 @@
 #Dawning Angels<br>黎明天使
-![image](https://github.com/user-attachments/assets/5b429135-5dee-4d6f-97c1-90938d8da40f)
+![image](https://github.com/user-attachments/assets/76f58c7b-49dc-4128-a164-05915ca9a121)
+
 
 必修6：追忆过往与前程
 
