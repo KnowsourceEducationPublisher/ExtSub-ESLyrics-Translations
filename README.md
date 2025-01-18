@@ -7,7 +7,7 @@
 (c) 2012-2019 Happy Elements K.K.
 (c) 2023-2024 KSEP by CREAHATO.
 
-教研所官网 https://ensemblestars.knowsource-educationandresearch.hatogen.hi.cn
+教研所官网 https://www.ksepeses.cfd
 当有变动时此网站中内容优先且应以它为准。
 
-前往知沅教育出版社扩展科目偶像梦幻祭教研所官网查看：https://ensemblestars.knowsource-educationandresearch.hatogen.hi.cn/index.php?title=%E5%8F%96%E6%99%AF%E6%A1%86%E4%B8%AD%E7%9A%84%E4%BD%A0
+前往知沅教育出版社扩展科目偶像梦幻祭教研所官网查看：https://www.ksepeses.cfd/index.php?title=%E5%8F%96%E6%99%AF%E6%A1%86%E4%B8%AD%E7%9A%84%E4%BD%A0
