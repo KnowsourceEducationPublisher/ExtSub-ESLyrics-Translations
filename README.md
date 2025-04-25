@@ -1,7 +1,7 @@
 # デートプランA to Z<br>约会方案A to Z
 ![image](https://github.com/user-attachments/assets/bb4528ed-bdc1-4c48-9bec-0609c47006a3)
 
-选择性必修55：音乐扩展专题
+选择性必修50：音乐扩展专题
 
 (c) 2012-2019 Happy Elements K.K.<br>
 (c) 2023-2025 KSEP by CREAHATO.
