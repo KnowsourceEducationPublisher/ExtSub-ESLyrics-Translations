@@ -12,7 +12,7 @@ __册数-歌名原文-歌名译文__
 (c) 2012-2019 Happy Elements K.K.<br>
 (c) 2023-2026 KSEP by H.X.KAKU.
 
-教研所官网 https://www.ksepeses.cfd<br>
+教研所官网 https://www.ksepeses.com<br>
 当有变动时此网站中内容优先且应以它为准。
 
 ## 知沅社歌词翻译原则 ①
